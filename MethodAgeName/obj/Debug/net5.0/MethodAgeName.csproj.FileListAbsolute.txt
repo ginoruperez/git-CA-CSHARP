@@ -1,0 +1,16 @@
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.exe
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.deps.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.runtimeconfig.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.runtimeconfig.dev.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\ref\MethodAgeName.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\bin\Debug\net5.0\MethodAgeName.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.csprojAssemblyReference.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.AssemblyInfoInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.AssemblyInfo.cs
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.csproj.CoreCompileInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\ref\MethodAgeName.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MethodAgeName\obj\Debug\net5.0\MethodAgeName.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.exe
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.deps.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.runtimeconfig.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.runtimeconfig.dev.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ref\ArrayOfGrades.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\bin\Debug\net5.0\ArrayOfGrades.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.csprojAssemblyReference.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.AssemblyInfoInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.AssemblyInfo.cs
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.csproj.CoreCompileInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ref\ArrayOfGrades.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\ArrayOfGrades\obj\Debug\net5.0\ArrayOfGrades.genruntimeconfig.cache

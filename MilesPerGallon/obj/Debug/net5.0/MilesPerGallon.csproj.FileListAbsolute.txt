@@ -1,0 +1,16 @@
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.exe
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.deps.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.runtimeconfig.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.runtimeconfig.dev.json
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\ref\MilesPerGallon.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\bin\Debug\net5.0\MilesPerGallon.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.csprojAssemblyReference.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.AssemblyInfoInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.AssemblyInfo.cs
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\ref\MilesPerGallon.dll
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.pdb
+C:\Users\ginor\OneDrive - Dublin Business School (DBS)\c_sharpprogram\CA\MilesPerGallon\obj\Debug\net5.0\MilesPerGallon.genruntimeconfig.cache
