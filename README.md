@@ -1,5 +1,7 @@
 # git-CA-CSHARP
 
+PREREQUISITE : VISUAL STUDIO - to open the solution project.
+
 Create a solution to each of the scenarios set out below. The solutions should be written in C# console applications. 
 
 
